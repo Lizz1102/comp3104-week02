@@ -1,2 +1,3 @@
 My name is Liza
 My student id is ****
+Today's lab: DevOps 
